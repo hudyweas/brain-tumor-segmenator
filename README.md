@@ -12,9 +12,9 @@ To train the model I've used dataset from Kaggle: https://www.kaggle.com/dataset
 
 ## Training
 The model was trained on GPU P100 on Kaggle using batch size 32.
-All the details of the training are in train.ipynb file.
+All the details of the training are in [train](train.ipynb) file.
 
 ## Results
-The model deals with image segmentation increadibly well, being very close to and sometimes even better than original mask.
+The model deals with image segmentation increadibly well, being very close to and sometimes even better than original mask. More photos can be seen in [show notebook](show.ipynb)
 
 ![alt text](https://github.com/hudyweas/brain-tumor-segmenator/blob/master/out/output_3.png?raw=true)
